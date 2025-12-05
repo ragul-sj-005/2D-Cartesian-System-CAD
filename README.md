@@ -12,7 +12,7 @@ The model is created using **SolidWorks** and includes all parts, assemblies, an
 - Motion Study / Simulation Files (if applicable)
 
 ## 🧰 Software Used
-- SolidWorks (Version XXXX)  
+- SolidWorks (Version 2022)  
 - Material & design references used in the robotic mechanism
 
 ## 📝 Description
