@@ -22,7 +22,8 @@ The Cartesian mechanism consists of:
 - Pick-and-place applications
 
 ## Demo Video
-[Click here to watch the demo video](Cartesian%20System%20Demo.mp4)
+
+[![Real Time Demo](https://raw.githubusercontent.com/ragul-sj-005/2D-Cartesian-System-CAD/main/Cartesian%20System%20Demo.mp4)](https://raw.githubusercontent.com/ragul-sj-005/2D-Cartesian-System-CAD/main/Cartesian%20System%20Demo.mp4)
 
 ## CAD Images
 
