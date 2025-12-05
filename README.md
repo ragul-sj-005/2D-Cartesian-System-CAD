@@ -20,3 +20,11 @@ The Cartesian mechanism consists of:
 - Robotic automation
 - 3D printer-style linear motion  
 - Pick-and-place applications
+
+## Demo Video
+[Click here to watch the demo video](Cartesian%20System%20Demo.mp4)
+
+## CAD Images
+[Pictures 1](Cartesian%201.png)
+[Pictures 2](Cartesian%201.jpg)
+
