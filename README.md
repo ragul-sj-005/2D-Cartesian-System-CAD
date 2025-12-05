@@ -25,6 +25,8 @@ The Cartesian mechanism consists of:
 [Click here to watch the demo video](Cartesian%20System%20Demo.mp4)
 
 ## CAD Images
-[Pictures 1](Cartesian%201.png)
-[Pictures 2](Cartesian%201.jpg)
+
+![Cartesian Image 1](https://github.com/ragul-sj-005/2D-Cartesian-System-CAD/blob/main/Cartesian%201.jpg)
+![Cartesian Image 2](https://github.com/ragul-sj-005/2D-Cartesian-System-CAD/blob/main/Cartesian%202.jpg)
+
 
